@@ -1,0 +1,8 @@
+{
+  "name": "ScrapEase",
+  "description": "Digital scrap pickup scheduling, verified collector dispatch, and circular-economy recycling marketplace for Indian cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
